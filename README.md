@@ -1,5 +1,5 @@
 # Ski_Game
-Year1; BSc Information Technology Assignment
+Year1; BSc Information Technology Java Programming Assignment
 
 
 First Assignment to learn Java programming, using an application called processing.
